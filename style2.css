@@ -1,0 +1,12 @@
+#imagem-arroz{
+    width: 200px;
+}
+
+.cabecalho{
+    border: 3px;
+    border-style: dashed;
+    border-color: brown;
+    background-color: aqua;
+    color: aliceblue;
+    margin: 50px;
+}
